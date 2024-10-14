@@ -23,5 +23,8 @@
 	<classpathentry kind="src" path="teste de peso"/>
 	<classpathentry kind="src" path="Polimorfismo"/>
 	<classpathentry kind="src" path="herança"/>
+	<classpathentry kind="src" path="CRUD"/>
+	<classpathentry kind="src" path="funcionario"/>
+	<classpathentry kind="src" path="interfaces"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
