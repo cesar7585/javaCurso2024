@@ -26,5 +26,6 @@
 	<classpathentry kind="src" path="CRUD"/>
 	<classpathentry kind="src" path="funcionario"/>
 	<classpathentry kind="src" path="interfaces"/>
+	<classpathentry kind="src" path="GUI"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
