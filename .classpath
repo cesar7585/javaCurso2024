@@ -28,5 +28,6 @@
 	<classpathentry kind="src" path="interfaces"/>
 	<classpathentry kind="src" path="GUI"/>
 	<classpathentry kind="src" path="java Stream&apos;"/>
+	<classpathentry kind="src" path="CalculadoraFuncional"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
